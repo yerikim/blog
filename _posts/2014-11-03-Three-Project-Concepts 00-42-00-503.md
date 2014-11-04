@@ -11,7 +11,7 @@ title: Three Project Concepts
 
 2.	A map of bygone and current industrial spaces in Baltimore overlaid with a map of start-ups and gallery spaces.
 
-3.	A “treasure map” of places to check out in Chicago, from the little jewels to the big ones.
+3.	A “treasure map” of lesser known and known places worth seeking out seeing in Chicago.
 
 4.	A map of the bodies of water and shorelines that existed in Maryland in the 19th century overlaid with those that exist in the 21st century.
 
