@@ -1,2 +1,2 @@
-blog-template
-=============
+blog
+====
