@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Activity
+title: Three Project Concepts
 ---
 
 {{ page.title }}
@@ -8,7 +8,7 @@ title: Mapping Activity
 
 <p class="meta">
 
-In our first class activity, the class was seperated into 3 teams and given markers, tape, scissors, papers and pad
+1. Build different versions of a "You Are Here" map for the Johns Hopkins University Homewood campus that mirrors the  radial–tangential packing of cones and rods in the biological structure of the eye. This would allow for a person who hones in on a centrally-located "You are Here" marker while more quick and conscious object recognition.
 
 ![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
 ![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
