@@ -17,12 +17,12 @@ I could tell from this map that I would have a hard time morphing the entire map
 ![]({{ site.url }}/blog/images/HopkinsCampusMap1.jpg)
 <i> Map centered on Ames Hall <i/>
 
-With each concentric circle moving outward, I changed the background color to emphasize the size gradient. I made the buildings and the symbols marking dining and parking about twice as large with each ring moving outward. Unfortunately, the message is confusing when looking at buildings. The larger buildings potentially just look like they may be just that: much larger buildings. To counter this, I decided to label all of the buildings with their corresponding numbers and scale their numbers with them. Here's the mock-up with this change:
+With each concentric circle moving outward, I changed the background color to emphasize the size gradient. I made the buildings and the symbols marking dining and parking about twice as large with each ring moving outward. Unfortunately, the message is confusing when looking at buildings. The larger buildings potentially just look like they may be just that: much larger buildings. To make it clear that the change in scale of the builings did not reflect the real life scale, I decided to label all of the buildings with their corresponding numbers and scale their numbers with them. Here's the mock-up with this change:
 
 ![]({{ site.url }}/blog/images/HopkinsCampusMap2.jpg)
 
 To reference, here's the current Hopkins Homewood campus map. The numbers corresponding to the different buildings are the same.
 
-![]({{ site.url }}/blog/images/Homewood_campus_map.jpg)
+![]({{ site.url }}/blog/images/Homewood)
 
 
