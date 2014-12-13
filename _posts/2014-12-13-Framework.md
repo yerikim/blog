@@ -21,8 +21,3 @@ With each concentric circle moving outward, I changed the background color to em
 
 ![]({{ site.url }}/blog/images/HopkinsCampusMap2.jpg)
 
-To reference, here's the current Hopkins Homewood campus map. The numbers corresponding to the different buildings are the same.
-
-![]({{ site.url }}/blog/images/Homewood)
-
-
