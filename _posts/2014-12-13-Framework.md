@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Framework
+title: Creating a Framework & First Prototypes
 ---
 
 {{ page.title }}
