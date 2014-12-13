@@ -15,7 +15,7 @@ To get an idea of what shapes and sizes I was working with and how I might go ab
 I could tell from this map that I would have a hard time morphing the entire map with every building without making it physically gigantic. I decided that the best route would be to make several zoomed in, morphed sections that allows users to get their immediate bearings in one eyeful before referring back to the original Hopkins campus map. Here's my first prototype for this concept:
 
 ![]({{ site.url }}/blog/images/HopkinsCampusMap1.jpg)
-Map centered on Ames Hall
+<i> Map centered on Ames Hall <i/>
 
 With each concentric circle moving outward, I changed the background color to emphasize the size gradient. I made the buildings and the symbols marking dining and parking about twice as large with each ring moving outward. Unfortunately, the message is confusing when looking at buildings. The larger buildings potentially just look like they may be just that: much larger buildings. To counter this, I decided to label all of the buildings with their corresponding numbers and scale their numbers with them. Here's the mock-up with this change:
 
