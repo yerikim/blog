@@ -19,7 +19,7 @@ body {
   background-color: #b2e5e5;
   font: 13.34px helvetica, helvetica, clean, sans-serif;
   *font-size: small;
-  text-align: center;
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -82,7 +82,7 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 42em;
-  margin: 1em auto 2em auto;
+  margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
