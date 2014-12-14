@@ -8,7 +8,7 @@ title: Determining My Visual Hierarchy
 
 <p class="meta">
 
-To help in choosing the appropriate visual hierarchy (i.e. color, size, spacing, etc.) for this map, I created a quick diagram of visual receptive field centers. Within this framework, I changed around different factors to observe the visual impact.
+To help in choosing the appropriate visual hierarchy (i.e. color, size, spacing, etc.) for this map, I created a quick diagram of visual receptive field centers. Within this framework, I changed around the different hierarchical factor to observe the visual impact.
 
 ![]({{ site.url }}/blog/images/Sample Receptive Field Centers.jpg)
 <i> Sample Receptive Field Centers--Empty </i>
