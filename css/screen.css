@@ -60,6 +60,7 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  margin-right: 3em;
 }
 
   ul.posts li {
