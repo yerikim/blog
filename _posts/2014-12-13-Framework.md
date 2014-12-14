@@ -22,5 +22,6 @@ With each concentric circle moving outward, I changed the background color to em
 ![]({{ site.url }}/blog/images/HopkinsCampusMap2.jpg)
 <i> Stare at the center and see if you can identify numbers and symbols in your peripheral vision!</i>
 
-Compare to the current Hopkins Homewood Map:
+Compare to the current Hopkins Homewood Map (building numbering consistent):
+
 ![]({{ site.url }}/blog/images/Homewood.jpg)
