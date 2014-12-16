@@ -17,10 +17,10 @@ Stand alone, it's hard to tell how they translate to a more traditional map. Sin
 
 I came up with two different ways of presenting the new and old maps together.
 
-![]({{ site.url }}/blog/images/HopkinsTogether1.jpg)
+![]({{ site.url }}/blog/images/HopkinsTogether3.jpg)
 I imagine this example for digital platform use. A user could move the lens all over the traditional map to get a quick grasp of what's around whichever focal point they chose.
 
 
-![]({{ site.url }}/blog/images/HopkinsTogether2.jpg)
+![]({{ site.url }}/blog/images/HopkinsTogether4.jpg)
 Alternatively, presenting the two maps side by side with a small box marking what on the traditional map is being blown up could be used digitally or in print.
 
