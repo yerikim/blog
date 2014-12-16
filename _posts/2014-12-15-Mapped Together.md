@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging the Current Map to My New Concept Map
+title: Bridging the Current, Traditional Map to My New Concept Map
 ---
 
 {{ page.title }}
