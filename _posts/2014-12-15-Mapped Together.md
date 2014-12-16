@@ -8,7 +8,7 @@ title: Bridging the Current, Traditional Map to My New Concept Map
 
 <p class="meta">
 
-I created two of my new concept maps each with a different building on campus for its focal point. See below:
+I created a couple new concept maps, each with a different building on campus for its focal point. See below:
 
 ![]({{ site.url }}/blog/images/HopkinsCampusMap2.jpg)
 ![]({{ site.url }}/blog/images/HopkinsCampusMap3.jpg)
